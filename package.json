@@ -1,0 +1,15 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "criando um projeto com Cypress by: Thais Ferreira",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^3.2.0"    
+  }
+}
